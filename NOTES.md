@@ -13,7 +13,7 @@ The four sheets are kraft paper, hand-lettered, taped up in layers and photograp
 | `PXL_20260918_120938474.jpg` | Real Steel |
 | `PXL_20260918_121002068.jpg` | Classic Brass |
 
-Two photos are rotated relative to the writing: the brass sheet by 90° and the stainless machine-screw sheet by 180°. They were straightened before reading; the originals are left as shot.
+Two photos came off the camera rotated relative to the writing — the brass sheet by 90° and the stainless machine-screw sheet by 180°. Both have since been rotated upright in place with `jpegtran -perfect`, which transforms the JPEG coefficients directly, so the image data is unchanged rather than re-encoded. The as-shot versions remain in the first commit.
 
 ## Conventions of the original sheets
 
