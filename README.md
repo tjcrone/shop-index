@@ -2,7 +2,7 @@
 
 Index of the shop's fastener bins, by material and fastener type.
 
-Bin numbers are given as ranges: `3000–3037` means the bins numbered 3000 through 3037. Size columns read smallest bin → largest bin; they bound the range a run of bins covers rather than promising every size in between.
+A size range bounds what a run of bins covers; it does not promise every size in between.
 
 Transcribed from four handwritten sheets — see [NOTES.md](NOTES.md) for the source photos and transcription details.
 
@@ -32,8 +32,6 @@ The A-suffix socket head cap screw bins are a separate series from the plain one
 | Nylock Nuts | 6-32, 8-32, 10-24, 10-32 | 3361 |
 | Nylock Nuts | 1/4-20, 5/16-18, 3/8-16 | 3362 |
 
-The two Nylock bins hold several sizes each and are listed size by size rather than as a range.
-
 ## Real Steel
 
 | Fastener | Bins |
@@ -51,8 +49,6 @@ The two Nylock bins hold several sizes each and are listed size by size rather t
 | Flat Washers | 1088–1097 |
 | Lock Washers | 1098–1106 |
 
-No thread sizes are recorded for this material.
-
 ## Classic Brass
 
 | Fastener | Bins |
@@ -65,5 +61,3 @@ No thread sizes are recorded for this material.
 | Jam Nuts | 986–991 |
 | Flat Head Wood Screws | 1612–1632 |
 | Round Head Wood Screws | 1633–1653 |
-
-No thread sizes are recorded for this material.
