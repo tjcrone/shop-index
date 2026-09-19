@@ -12,7 +12,7 @@ Transcribed from four handwritten sheets — see [NOTES.md](NOTES.md) for the so
 | --- | --- | --- |
 | Socket Head Cap Screws | 0-80 × 1/8 → 1/4-28 × 1 1/2 | 3000A–3023A |
 | Socket Head Cap Screws | 1/4-28 × 2 → 3/4-10 × 6 | 3000–3037 |
-| Hex Head Cap Screws | 1/4-20 × 3/8 → 1-8 × 8 | 3038–3174 |
+| Hex Head Cap Screws | 1/4-20 × 3/8 → 1"-8 × 8 | 3038–3174 |
 | Fillister Head Slotted Machine Screws | 1-72 × 1/8 → 1/2-13 × 4 | 3175–3204 |
 | Flat Head Slotted Machine Screws | 1-72 × 1/8 → 1/2-13 × 4 | 3205–3237 |
 | Round Head Slotted Machine Screws | 1-72 × 3/16 → 1/2-13 × 4 | 3238–3267 |
@@ -26,7 +26,7 @@ The A-suffix socket head cap screw bins are a separate series from the plain one
 | Wing Nuts | 6-32 → 1/2-13 | 3268–3269 |
 | Hex Socket Set Screws | 0-80 × 1/8 → 3/4-10 × 1 1/2 | 3270–3277 |
 | Finished Jam Nuts | 1/4-20 → 1"-14 | 3284–3287 |
-| Finished Full Nuts | 0-80 → 1-14 | 3288–3302 |
+| Finished Full Nuts | 0-80 → 1"-14 | 3288–3302 |
 | Flat Washers | 0 → 1" | 3303–3310 |
 | Lock Washers | 0 → 1" | 3311–3319 |
 | Nylock Nuts | 6-32, 8-32, 10-24, 10-32 | 3361 |
@@ -38,13 +38,13 @@ The two Nylock bins hold several sizes each and are listed size by size rather t
 
 | Fastener | Bins |
 | --- | --- |
-| Socket Hd. Cap Screws | 14–73 |
-| Hex Hd. Cap Screws | 76–176 |
-| Flat Hd. Machine Screws | 194–229 |
-| Round Hd. Machine Screws | 230–267 |
+| Socket Head Cap Screws | 14–73 |
+| Hex Head Cap Screws | 76–176 |
+| Flat Head Machine Screws | 194–229 |
+| Round Head Machine Screws | 230–267 |
 | Hardened Washers | 1012–1013 |
 | Hex Socket Set Screws | 1016–1027 |
-| Fillister Hd. Machine Screws | 1028–1055 |
+| Fillister Head Machine Screws | 1028–1055 |
 | Full Nuts | 1056–1079 |
 | Jam Nuts | 1080–1084 |
 | Wing Nuts | 1085–1087 |

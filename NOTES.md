@@ -19,6 +19,10 @@ Two photos came off the camera rotated relative to the writing — the brass she
 
 Headings are in red, sizes in green or pencil, bin numbers prefixed `#`. Sizes are written smallest to largest, in the form `thread × length` where a length is given at all. Grouped sizes sharing one bin are bracketed in a vertical stack; alternative sizes are separated by slashes.
 
+The sheets are inconsistent about the inch mark on thread sizes — the nuts sheet writes `1"-14` while the machine-screw sheet writes `1-8 × 8` — so README.md marks every whole-inch diameter and leaves gauge numbers bare, which is what the washer rows (`0 → 1"`) already did. No size was changed, only its notation.
+
+Fastener names in README.md are normalized to one spelling per fastener, so the same item reads the same way in every material: the Real Steel sheet's `Hd.` is expanded to `Head`, which is how the other three sheets write it. Wording is otherwise left as the sheets have it, including the order of the words — `Fillister Head Slotted Machine Screws` is the catalog's order, not a garbled one. No name was given a qualifier its sheet does not carry, which is why `Slotted` and `Finished` appear on the stainless rows but not on the Real Steel and brass rows that name the same head styles.
+
 Row order in README.md is by bin number. Two sheets do not run in that order — the Real Steel sheet puts Hardened Washers and Wing Nuts out of sequence near the bottom, and the brass sheet leads with Hex Head Cap Screws — so those rows were moved. No row was added, dropped, or merged.
 
 ## Inferred or uncertain readings
